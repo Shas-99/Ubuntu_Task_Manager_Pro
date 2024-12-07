@@ -1,13 +1,7 @@
 # Ubuntu Task Manager Pro
-
+- by **Shashank Kadam (2203115)** and **Om Narayan Sharma (2203122)**
 ## Overview
-**Ubuntu Task Manager Pro** is a modern, feature-rich task management application designed for Ubuntu systems. Developed by **Shashank Kadam (2203115)** and **Om Narayan Sharma (2203122)**, this tool provides real-time insights into system resources, processes, performance metrics, and network statistics.
-
-The project includes:
-- **Process Management**: View, manage, and terminate system processes.
-- **System Insights**: Detailed overview of CPU, memory, and disk usage.
-- **Performance Charts**: Real-time plots for CPU, memory, disk, and network activity.
-- **Network Insights**: Speed testing and network traffic monitoring.
+**Ubuntu Task Manager Pro** is a feature-rich task management application designed for Ubuntu systems. This tool provides real-time insights into system resources, processes, performance metrics, and network statistics.
 
 ---
 
@@ -38,3 +32,32 @@ Ensure your system has Python 3 installed. Then, install the required packages:
 1. **Tkinter** (for GUI):  
    ```bash
    sudo apt-get install python3-tk
+2. **psutil** (for process management):
+    ```bash
+   pip install psutil
+3. **matplotlib** (for plotting):
+   ```bash
+   pip install matplotlib
+4. **numpy** (for numerical operations):
+   ```bash
+   pip install numpy
+5. **speedtest-cli** (for network speed testing):
+    ```bash
+    pip install speedtest-cli
+
+---
+
+## Usage
+Run the application with the following command:
+  ```bash
+  python3 task_manager_pro.py
+---
+
+## Contributions
+Contributions, issues, and feature requests are welcome! Feel free to fork the project and submit pull requests.
+
+
+
+
+
+
