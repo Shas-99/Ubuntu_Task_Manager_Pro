@@ -61,10 +61,10 @@ Run the application with the following command:
 
 ---
 ### Contributions
-Contributions, issues, and feature requests are welcome! Feel free to fork the project and submit pull requests.
+-Contributions, issues, and feature requests are welcome! Feel free to fork the project and submit pull requests.
 ---
 ### License
-This project is open-source and available under the MIT License.
+-This project is open-source and available under the MIT License.
 ---
 
 
