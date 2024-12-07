@@ -24,6 +24,9 @@
 
 ---
 
+## Screenshots
+
+
 ## Installation
 
 ### Prerequisites
@@ -51,12 +54,15 @@ Ensure your system has Python 3 installed. Then, install the required packages:
 Run the application with the following command:
   ```bash
   python3 task_manager_pro.py
----
+  ```
 
+---
 ## Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork the project and submit pull requests.
-
-
+---
+## License
+This project is open-source and available under the MIT License.
+---
 
 
 
