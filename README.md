@@ -25,7 +25,10 @@
 ---
 
 ## Screenshots
-
+![img1](/img/e864025d936fe16caf0302d905937092f8110b39.jpg)
+![img2](/img/f8e7aef3fd1849508beee7ce5fe3d485a3fd64b5.jpg)
+![img3](/img/707d5a435d5f91b864faf5b87d28d105132cbb2a.jpg)
+![img4](/img/dcf6bc689e6df52fab1da73cfe2e3c1ba1e70109.jpg)
 
 ## Installation
 
@@ -57,10 +60,10 @@ Run the application with the following command:
   ```
 
 ---
-## Contributions
+### Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork the project and submit pull requests.
 ---
-## License
+### License
 This project is open-source and available under the MIT License.
 ---
 
